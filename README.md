@@ -1,4 +1,4 @@
-ASP.NET Web API v2练习.
+ASP.NET Web API v2 working example.
 =
 ###[ProductApp](https://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api)  
 ###[BookService](https://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-1)  
